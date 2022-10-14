@@ -1,0 +1,15 @@
+C:\Users\annem\source\repos\cuperter spel\reken\bin\Debug\net6.0\reken.exe
+C:\Users\annem\source\repos\cuperter spel\reken\bin\Debug\net6.0\reken.deps.json
+C:\Users\annem\source\repos\cuperter spel\reken\bin\Debug\net6.0\reken.runtimeconfig.json
+C:\Users\annem\source\repos\cuperter spel\reken\bin\Debug\net6.0\reken.dll
+C:\Users\annem\source\repos\cuperter spel\reken\bin\Debug\net6.0\reken.pdb
+C:\Users\annem\source\repos\cuperter spel\reken\obj\Debug\net6.0\reken.csproj.AssemblyReference.cache
+C:\Users\annem\source\repos\cuperter spel\reken\obj\Debug\net6.0\reken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annem\source\repos\cuperter spel\reken\obj\Debug\net6.0\reken.AssemblyInfoInputs.cache
+C:\Users\annem\source\repos\cuperter spel\reken\obj\Debug\net6.0\reken.AssemblyInfo.cs
+C:\Users\annem\source\repos\cuperter spel\reken\obj\Debug\net6.0\reken.csproj.CoreCompileInputs.cache
+C:\Users\annem\source\repos\cuperter spel\reken\obj\Debug\net6.0\reken.dll
+C:\Users\annem\source\repos\cuperter spel\reken\obj\Debug\net6.0\refint\reken.dll
+C:\Users\annem\source\repos\cuperter spel\reken\obj\Debug\net6.0\reken.pdb
+C:\Users\annem\source\repos\cuperter spel\reken\obj\Debug\net6.0\reken.genruntimeconfig.cache
+C:\Users\annem\source\repos\cuperter spel\reken\obj\Debug\net6.0\ref\reken.dll
