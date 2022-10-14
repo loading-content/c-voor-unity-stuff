@@ -1,0 +1,15 @@
+C:\Users\annem\source\repos\cuperter spel\numbers\bin\Debug\net6.0\numbers.exe
+C:\Users\annem\source\repos\cuperter spel\numbers\bin\Debug\net6.0\numbers.deps.json
+C:\Users\annem\source\repos\cuperter spel\numbers\bin\Debug\net6.0\numbers.runtimeconfig.json
+C:\Users\annem\source\repos\cuperter spel\numbers\bin\Debug\net6.0\numbers.dll
+C:\Users\annem\source\repos\cuperter spel\numbers\bin\Debug\net6.0\numbers.pdb
+C:\Users\annem\source\repos\cuperter spel\numbers\obj\Debug\net6.0\numbers.csproj.AssemblyReference.cache
+C:\Users\annem\source\repos\cuperter spel\numbers\obj\Debug\net6.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annem\source\repos\cuperter spel\numbers\obj\Debug\net6.0\numbers.AssemblyInfoInputs.cache
+C:\Users\annem\source\repos\cuperter spel\numbers\obj\Debug\net6.0\numbers.AssemblyInfo.cs
+C:\Users\annem\source\repos\cuperter spel\numbers\obj\Debug\net6.0\numbers.csproj.CoreCompileInputs.cache
+C:\Users\annem\source\repos\cuperter spel\numbers\obj\Debug\net6.0\numbers.dll
+C:\Users\annem\source\repos\cuperter spel\numbers\obj\Debug\net6.0\refint\numbers.dll
+C:\Users\annem\source\repos\cuperter spel\numbers\obj\Debug\net6.0\numbers.pdb
+C:\Users\annem\source\repos\cuperter spel\numbers\obj\Debug\net6.0\numbers.genruntimeconfig.cache
+C:\Users\annem\source\repos\cuperter spel\numbers\obj\Debug\net6.0\ref\numbers.dll
