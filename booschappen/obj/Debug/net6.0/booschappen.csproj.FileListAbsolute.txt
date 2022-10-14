@@ -1,0 +1,15 @@
+C:\Users\annem\source\repos\cuperter spel\booschappen\bin\Debug\net6.0\booschappen.exe
+C:\Users\annem\source\repos\cuperter spel\booschappen\bin\Debug\net6.0\booschappen.deps.json
+C:\Users\annem\source\repos\cuperter spel\booschappen\bin\Debug\net6.0\booschappen.runtimeconfig.json
+C:\Users\annem\source\repos\cuperter spel\booschappen\bin\Debug\net6.0\booschappen.dll
+C:\Users\annem\source\repos\cuperter spel\booschappen\bin\Debug\net6.0\booschappen.pdb
+C:\Users\annem\source\repos\cuperter spel\booschappen\obj\Debug\net6.0\booschappen.csproj.AssemblyReference.cache
+C:\Users\annem\source\repos\cuperter spel\booschappen\obj\Debug\net6.0\booschappen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annem\source\repos\cuperter spel\booschappen\obj\Debug\net6.0\booschappen.AssemblyInfoInputs.cache
+C:\Users\annem\source\repos\cuperter spel\booschappen\obj\Debug\net6.0\booschappen.AssemblyInfo.cs
+C:\Users\annem\source\repos\cuperter spel\booschappen\obj\Debug\net6.0\booschappen.csproj.CoreCompileInputs.cache
+C:\Users\annem\source\repos\cuperter spel\booschappen\obj\Debug\net6.0\booschappen.dll
+C:\Users\annem\source\repos\cuperter spel\booschappen\obj\Debug\net6.0\refint\booschappen.dll
+C:\Users\annem\source\repos\cuperter spel\booschappen\obj\Debug\net6.0\booschappen.pdb
+C:\Users\annem\source\repos\cuperter spel\booschappen\obj\Debug\net6.0\booschappen.genruntimeconfig.cache
+C:\Users\annem\source\repos\cuperter spel\booschappen\obj\Debug\net6.0\ref\booschappen.dll
